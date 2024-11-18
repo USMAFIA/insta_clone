@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1089595039926",
+    "firebase_url": "https://testing-cli2-e4839-default-rtdb.firebaseio.com",
+    "project_id": "testing-cli2-e4839",
+    "storage_bucket": "testing-cli2-e4839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089595039926:android:55f97b889d7b076d1dc617",
+        "android_client_info": {
+          "package_name": "com.ratedsoltech.insta_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiVpnI0biXmkfiYv8CKrYlHKFvslJnoGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
